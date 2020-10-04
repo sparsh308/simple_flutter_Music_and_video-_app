@@ -1,4 +1,6 @@
-# music_app
+# Flutter Simple Music_app Demo
+
+![1_H_MI5719mfSQUqy6ITU82g@2x](https://user-images.githubusercontent.com/47140660/95009709-c0aaec00-0641-11eb-8845-441130b74c05.jpeg)
 
 A new Flutter project.
 
